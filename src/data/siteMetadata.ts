@@ -1,7 +1,7 @@
 export const siteMetadata = {
   title: "Augustine Joseph",
   author: "Augustine Joseph",
-  siteUrl: "https://augustinejoseph.githu.io",
+  siteUrl: "https://augustinejoseph.github.io",
   socialBanner: "/_static/default-og-card.png",
   description:
     "Augustine Joseph - Fullstack developer passionate about creating and sharing things on internet",
