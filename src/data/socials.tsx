@@ -1,9 +1,7 @@
 import {
   GitHubIcon,
-  InstagramIcon,
   LinkedInIcon,
   MediumIcon,
-  XIcon,
 } from "../components/icons";
 
 export const SOCIALS = [

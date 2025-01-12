@@ -1,6 +1,5 @@
-import { BriefcaseIcon, GitHubIcon, LinkIcon } from "@/components/icons";
+import { GitHubIcon, LinkIcon } from "@/components/icons";
 import { SocialLink } from "@/components/social-link";
-import { WEB_APPS } from "@/data/projects";
 import { Project } from "@/types";
 import Image from "next/image";
 
