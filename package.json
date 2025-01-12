@@ -24,7 +24,6 @@
     "class-validator": "^0.14.1",
     "clsx": "^2.0.0",
     "contentlayer": "^0.3.4",
-    "eslint-config-next": "13.4.19",
     "framer-motion": "^10.16.4",
     "install": "^0.13.0",
     "next": "13.5.6",
@@ -46,9 +45,6 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
-    "eslint": "^8.57.1",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-unused-imports": "^4.1.4",
     "gh-pages": "^6.3.0",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.4"
