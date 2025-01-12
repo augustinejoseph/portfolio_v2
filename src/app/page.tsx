@@ -14,12 +14,12 @@ export default async function Home() {
     <React.Fragment>
       <section className="mb-5">
         <Image
-          src="/_static/me.jpg"
+          src={'https://i.postimg.cc/g2f4g6kH/me.jpg'}
           width={100}
           height={100}
           alt="avatar"
           className="rounded-full cursor-pointer hover:grayscale mb-5"
-          priority
+          unoptimized
         />
         <h1 className="text-2xl font-bold">Augustine Joseph</h1>
 
