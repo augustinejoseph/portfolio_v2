@@ -32,3 +32,5 @@ export default async function Blog() {
     </section>
   );
 }
+
+export const revalidate = 60;
