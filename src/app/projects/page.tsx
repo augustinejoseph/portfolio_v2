@@ -18,7 +18,6 @@ async function fetchWebApps() {
 
 export default async function Projects() {
   const webApps: Project[] = await fetchWebApps();
-  console.log('Web Apps ::::====>>>>', webApps);
   
   return (
     <React.Fragment>
