@@ -1,52 +1,27 @@
 [
   {
-    "title": "Happy Feets",
+    "title": "Globe V",
     "tags": [
       "Python",
       "Django",
       "React",
+      "RestAPI",
       "PostgreSQL",
       "GIT",
-      "GitHub",
-      "Razorpay",
-      "AWS",
-      "Route53",
-      "Nginx",
-      "Gunicorn"
+      "Docker",
+      "Axios",
+      "FTP",
+      "SAP"
     ],
-    "description": "An E-commerce website that sells footwears. Features like product view, payment, return are implemented.",
-    "thumbnail": "https://i.postimg.cc/4nRdhKnN/happyfeetz.png",
-    "repo": "https://github.com/augustinejoseph/e-commerce-website",
-    "repoLinkExpired": false,
-    "liveLink": "http://happyfeetz.in",
+    "description": "Application created using React.js and Python Django to manage the employees, products and customers for a Nasdaq listed company.",
+    "thumbnail": "https://i.postimg.cc/zBjPz7qJ/globev1.webp",
+    "repo": "",
+    "repoLinkExpired": true,
+    "liveLink": "",
     "liveLinkExpired": true,
-    "features": [
-      "Fully functional e-commerce website",
-      "Features like login, cart, wishlist, Razorpay payment, Razorpay refund, return and so on...",
-      "Python | Django | React | PostgreSQL | GIT | GitHub | Razorpay |",
-      "AWS | Route53 | AWS | Nginx | Gunicorn",
-      "Build using Django and MVT architecture",
-      "Used technologies like Django, and PostgreSQL.",
-      "Integrated online payment and refund using Razorpay."
-    ],
-    "project_slug": "happy_feets"
+    "slug": "globev",
+    "features": ["Managing customers, employees and products"]
   },
-  {
-    "title": "Movie Finder",
-    "tags": ["React", "Create React App", "Axios", "TMDB"],
-    "description": "A website that uses TMDB API to fetch movie data and shown using React.",
-    "thumbnail": "https://i.postimg.cc/NF7Jykqj/moviefinder.webp",
-    "repo": "https://github.com/augustinejoseph/movie-finder-react",
-    "repoLinkExpired": false,
-    "liveLink": "example.com",
-    "liveLinkExpired": true,
-    "slug": "movie_finder",
-    "features": [
-      "Fetching Movie data using TMDB API",
-      "Displaying movie information using React"
-    ]
-  },
-
   {
     "title": "Data Lens",
     "tags": [
@@ -87,28 +62,51 @@
       "Implemented a headless architecture for enhanced flexibility and scalability."
     ]
   },
-
   {
-    "title": "Globe V",
+    "title": "Movie Finder",
+    "tags": ["React", "Create React App", "Axios", "TMDB"],
+    "description": "A website that uses TMDB API to fetch movie data and shown using React.",
+    "thumbnail": "https://i.postimg.cc/NF7Jykqj/moviefinder.webp",
+    "repo": "https://github.com/augustinejoseph/movie-finder-react",
+    "repoLinkExpired": false,
+    "liveLink": "example.com",
+    "liveLinkExpired": true,
+    "slug": "movie_finder",
+    "features": [
+      "Fetching Movie data using TMDB API",
+      "Displaying movie information using React"
+    ]
+  },
+  {
+    "title": "Happy Feets",
     "tags": [
       "Python",
       "Django",
       "React",
-      "RestAPI",
       "PostgreSQL",
       "GIT",
-      "Docker",
-      "Axios",
-      "FTP",
-      "SAP"
+      "GitHub",
+      "Razorpay",
+      "AWS",
+      "Route53",
+      "Nginx",
+      "Gunicorn"
     ],
-    "description": "Application created using React.js and Python Django to manage the employees, products and customers for a Nasdaq listed company.",
-    "thumbnail": "https://i.postimg.cc/zBjPz7qJ/globev1.webp",
-    "repo": "",
-    "repoLinkExpired": true,
-    "liveLink": "",
+    "description": "An E-commerce website that sells footwears. Features like product view, payment, return are implemented.",
+    "thumbnail": "https://i.postimg.cc/4nRdhKnN/happyfeetz.png",
+    "repo": "https://github.com/augustinejoseph/e-commerce-website",
+    "repoLinkExpired": false,
+    "liveLink": "http://happyfeetz.in",
     "liveLinkExpired": true,
-    "slug": "globev",
-    "features": ["Managing customers, employees and products"]
+    "features": [
+      "Fully functional e-commerce website",
+      "Features like login, cart, wishlist, Razorpay payment, Razorpay refund, return and so on...",
+      "Python | Django | React | PostgreSQL | GIT | GitHub | Razorpay |",
+      "AWS | Route53 | AWS | Nginx | Gunicorn",
+      "Build using Django and MVT architecture",
+      "Used technologies like Django, and PostgreSQL.",
+      "Integrated online payment and refund using Razorpay."
+    ],
+    "project_slug": "happy_feets"
   }
 ]
